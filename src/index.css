@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.feature {
+    @apply w-1/4 flex flex-col items-center
+}
+
+.offer {
+    @apply border-2 rounded-md min-w-[37vw] m-1 p-2
+}
