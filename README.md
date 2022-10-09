@@ -4,7 +4,7 @@ Amazon Mobile UI created with Tailwind CSS
 
 # Link
 
-https://amazonxtailwind.netlify.app/
+https://anuragsharma50.github.io/AmazonXTailwindCSS/
 
 # Preview
 
